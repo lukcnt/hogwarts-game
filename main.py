@@ -26,3 +26,7 @@ print('''
   :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __--
 .::  :::::::::::::::::::Y88as88a...s88aa.
 ''')
+
+# Greetings and objective of the game.
+print("Welcome to Hogwarts School of Witchcraft and Wizardry.")
+print("Your mission is to reach in Gryffindor Tower.")
